@@ -516,6 +516,12 @@ section {
   text-align: center;
   font-weight: bold;
 }
+.section-header .section-subtitle {
+  font-size: 28px;
+  color: #111;
+  text-align: center;
+  font-weight: bold;
+}
 
 .section-header .section-description {
   text-align: center;
